@@ -1,0 +1,9 @@
+/target/
+/.idea/
+/.vscode/
+*.iml
+*.log
+/record.dat
+/javadoc/
+.DS_Store
+Thumbs.db
